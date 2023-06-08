@@ -1,9 +1,9 @@
 
 <h2> 🖋️ &nbsp;About Me </h2>
   <p> - 🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
-  <p> - 🏫 I'm computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
-  <p> - ⌨️ I'm good at frond-end skill and learn everything that make development easier </p>
-  <p> - 💻 I'm interesting in Software development and Server-side Server development</p>
+  <p> - 🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
+  <p> - ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
+  <p> - 💻 I'm interested in Software development and Server-side Server development</p>
 
 </br>
 <h2> 🖋️ &nbsp;Experience </h2>
