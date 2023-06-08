@@ -1,7 +1,5 @@
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=radical)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
