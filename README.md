@@ -23,7 +23,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" alt="unix" width="45" height="45"/>
 </p>
 <h2> 📑 &nbsp;My github history</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=material-palenight)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
