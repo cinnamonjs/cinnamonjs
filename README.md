@@ -22,7 +22,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" alt="unix" width="45" height="45"/>
 </p>
-<h2> 📑 &nbsp;My github history</h2>
+<h2> 📑 &nbsp;My Github History</h2>
 
 ![cinnamonjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=material-palenight)
 
