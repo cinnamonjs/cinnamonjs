@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="c" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" alt="debian" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/tree/v2.15.1/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
