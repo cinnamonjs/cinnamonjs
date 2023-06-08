@@ -1,6 +1,3 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=material-palenight)
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -25,6 +22,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" alt="unix" width="45" height="45"/>
 </p>
+<h2> 📑 &nbsp;My github history</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=material-palenight)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
