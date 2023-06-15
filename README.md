@@ -7,8 +7,9 @@
 
 </br>
 <h2> 🖋️ &nbsp;Experience </h2>
+<h4> &nbsp;&nbsp;Mini-Project </h4>
 <p align="left">
-  -
+  <p> - Anime characters ranking website [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu) </p>
 </p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
