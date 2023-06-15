@@ -1,13 +1,13 @@
 
 ## 🖋️  About Me 
-*  🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
-*  🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
-*  ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
-*  💻 I'm interested in Software development and Server-side Server development</p>
+-  🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
+-  🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
+-  ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
+-  💻 I'm interested in Software development and Server-side Server development</p>
 
 ## 🖋️ Experience 
 ###    Mini-Project
-* Anime characters ranking website
+- Anime characters ranking website [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
 
 ## 🚀 Some Tools I Have Used and Learned
 <p align="left">
