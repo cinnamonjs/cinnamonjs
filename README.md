@@ -9,8 +9,8 @@
 <h2> 🖋️ &nbsp;Experience </h2>
 <h4> &nbsp;&nbsp;Mini-Project </h4>
 <p align="left">
-  <p> - Anime characters ranking website ![link to website](https://rankyourwaifu.vercel.app/) | ![source code](https://github.com/cinnamonjs/rankyourwaifu) </p>
-</p>
+  <p> - Anime characters ranking website </p> <a herf="https://rankyourwaifu.vercel.app/">link to website</a> <p>|</p> <a herf="https://github.com/cinnamonjs/rankyourwaifu">source code</a>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
