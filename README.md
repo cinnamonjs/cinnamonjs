@@ -1,17 +1,15 @@
 
-<h2> 🖋️ &nbsp;About Me </h2>
-  <p> - 🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
-  <p> - 🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
-  <p> - ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
-  <p> - 💻 I'm interested in Software development and Server-side Server development</p>
+## 🖋️  About Me 
+*  🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
+*  🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
+*  ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
+*  💻 I'm interested in Software development and Server-side Server development</p>
 
-</br>
-<h2> 🖋️ &nbsp;Experience </h2>
-<h4> &nbsp;&nbsp;Mini-Project </h4>
-<p align="left">
-  <p> - Anime characters ranking website </p> <a herf="https://rankyourwaifu.vercel.app/">link to website</a> <p>|</p> <a herf="https://github.com/cinnamonjs/rankyourwaifu">source code</a>
+## 🖋️ Experience 
+###    Mini-Project
+* Anime characters ranking website
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🚀 Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-plain.svg" alt="c" width="45" height="45"/>
@@ -35,7 +33,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" alt="unix" width="45" height="45"/>
 </p>
-<h2> 📑 &nbsp;My Github History</h2>
+
+## 📑  My Github History
 
 ![cinnamonjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamonjs&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=material-palenight)
