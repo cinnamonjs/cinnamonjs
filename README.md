@@ -8,6 +8,8 @@
 ## 🖋️ Experience 
 ###    Mini-Project
 - Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
+###    Senior-Project
+-
 
 ## 🚀 Some Tools I Have Used and Learned
 <p align="left">
