@@ -9,7 +9,7 @@
 ###    Mini-Project
 - Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
 ###    Team-Project
-- I am in part of front-end development teams of library website for user and employee management. [source code](https://github.com/PPHamster/kmutt-library)
+- I am in part of front-end development teams of library website for user and employee management   [source code](https://github.com/PPHamster/kmutt-library)
   
   
 
