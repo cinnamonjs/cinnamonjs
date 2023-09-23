@@ -8,6 +8,7 @@
 ## 🖋️ Experience 
 ###    Mini-Project
 - Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
+- Fill the blanks mini-game     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
 ###    Team-Project
 #### front-end development teams 
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> library website for user and employee management   [github](https://github.com/PPHamster/kmutt-library)
