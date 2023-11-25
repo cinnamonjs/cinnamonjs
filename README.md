@@ -41,6 +41,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" alt="unix" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" alt="go" width="45" height="45"/>
 </p>
 
 ## 📑  My Github History
