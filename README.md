@@ -6,6 +6,10 @@
 -  💻 I'm interested in Software development and Server-side Server development</p>
 
 ## 🖋️ Experience 
+###    Internship
+- Lodash (Thailand) Company
+  Fullstack Developer
+  2023 - Now
 ###    Mini-Project
 - Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
 - Fill the blanks mini-game     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
