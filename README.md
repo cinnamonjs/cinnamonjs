@@ -9,14 +9,17 @@
 ###    Internship
 - Lodash (Thailand) Company <br/>
   Fullstack Developer (2023 - Now)
-###    Mini-Project
-- Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
-- Fill the blanks mini-game     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
-- Economics game discord bot  [source code](https://github.com/cinnamonjs/discordbot)
 ###    Team-Project
 #### front-end development teams 
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> library website for user and employee management   [github](https://github.com/PPHamster/kmutt-library)
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> Face recognition website for customer and corporation team interact & management  [github](https://github.com/PPHamster/kmutt-library)
+#### full-stack create&custom ai service platform
+- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> platform allow user to customize own ai model for own task
+
+###    Mini-Project
+- Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
+- Fill the blanks mini-game     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
+- Economics game discord bot  [source code](https://github.com/cinnamonjs/discordbot)
   
   
 
