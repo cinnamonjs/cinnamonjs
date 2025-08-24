@@ -3,7 +3,7 @@
 -  🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
 -  🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
 -  ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
--  💻 I'm interested in Software development and Server-side Server development</p>
+-  💻 I'm interested in Software development and Frontend development</p>
 
 ## 🖋️ Experience 
 ###    Internship
