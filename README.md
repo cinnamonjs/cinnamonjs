@@ -10,7 +10,10 @@
 - Lodash (Thailand) Company <br/>
   Fullstack Developer (2023 - 2024)
 ###    Freelance
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="react" width="30" height="20"/> Moblie Frontend Developer (2025)
+- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="react" width="30" height="20"/> Donation app project
+ Moblie Frontend Developer (2025)
+- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> Dashboard management project
+ Frontend Developer (2025)
 ###    Team-Project
 #### front-end development teams 
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> library website for user and employee management   [github](https://github.com/PPHamster/kmutt-library)
