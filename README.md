@@ -10,9 +10,9 @@
 - Lodash (Thailand) Company <br/>
   Fullstack Developer (2023 - 2024)
 ###    Freelance
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="react" width="30" height="20"/> Donation app project
+- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="react" width="30" height="20"/> Donation app project <br/>
  Moblie Frontend Developer (2025)
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> Dashboard management project
+- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> Dashboard management project <br/>
  Frontend Developer (2025)
 ###    Team-Project
 #### front-end development teams 
