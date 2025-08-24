@@ -18,7 +18,7 @@
 #### front-end development teams 
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> library website for user and employee management   [github](https://github.com/PPHamster/kmutt-library)
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> Face recognition website for customer and corporation team interact & management  [github](https://github.com/PPHamster/kmutt-library)
-#### full-stack create&custom ai service platform
+#### full-stack create & custom ai service platform
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> platform allow user to customize own ai model for own task
 
 ###    Mini-Project
