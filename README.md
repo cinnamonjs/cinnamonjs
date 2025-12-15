@@ -20,6 +20,8 @@
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> Face recognition website for customer and corporation team interact & management  [github](https://github.com/PPHamster/kmutt-library)
 #### full-stack create & custom ai service platform
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="30" height="20"/> platform allow user to customize own ai model for own task
+#### Chrome extension for automation service on google form
+- extension for allow user to paste a preset data on google form
 
 ###    Mini-Project
 - Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
