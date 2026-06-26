@@ -24,8 +24,6 @@
 - extension for allow user to paste a preset data on google form
 
 ###    Mini-Project
-- Anime characters ranking website     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
-- Fill the blanks mini-game     [link to website](https://rankyourwaifu.vercel.app/) | [source code](https://github.com/cinnamonjs/rankyourwaifu)
 - Economics game discord bot  [source code](https://github.com/cinnamonjs/discordbot)
   
   
