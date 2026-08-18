@@ -1,7 +1,7 @@
 
 ## 🖋️  About Me 
 -  🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
--  🏫 Bachelor's degree in Computer Engineering from King Mongkut's University of Technology Thonburi, graduating in 2026</p>
+-  🏫 Bachelor's degree in Computer Engineering from King Mongkut's University of Technology Thonburi, graduating in 2025</p>
 -  ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
 -  💻 I'm interested in Product Engineer, Product Designer and Frontend development</p>
 
