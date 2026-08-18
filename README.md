@@ -1,14 +1,17 @@
 
 ## 🖋️  About Me 
 -  🧑‍💻 My name is Phutsakorn Thunwattanakul from Thailand</p>
--  🏫 I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT)</p>
+-  🏫 Bachelor's degree in Computer Engineering from King Mongkut's University of Technology Thonburi, graduating in 2026</p>
 -  ⌨️ I'm good at the frond-end skill and learn everything that makes development easier </p>
--  💻 I'm interested in Software development and Frontend development</p>
+-  💻 I'm interested in Product Engineer, Product Designer and Frontend development</p>
 
 ## 🖋️ Experience 
 ###    Internship
 - Lodash (Thailand) Company <br/>
   Fullstack Developer (2023 - 2024)
+###    Work
+- Lodash (Thailand) Company <br/>
+  Frontend Developer (2025 - Now)
 ###    Freelance
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="react" width="30" height="20"/> Donation app project <br/>
  Moblie Frontend Developer (2025)
